@@ -12,7 +12,7 @@
   <a href="mailto:sidhant.loungani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://sidhantloungani1.github.io/sidhantkumar/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -73,4 +73,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sidhantloungani1&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhantloungani1&layout=compact&theme=radical" alt="Top languages" />
 </p>
+
 
